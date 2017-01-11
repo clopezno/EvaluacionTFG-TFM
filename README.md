@@ -13,8 +13,8 @@ Los asistentes a este curso al finalizar han de ser capaces de:
  
 Contenidos
 ========
-1. Una visión crítica y contructiva sobre la evaluación de TFG y TFM - 25 min
-2. Búsqueda en repositorios de proyectos Github y Bitbucket.  -  25 min  
-3. Ciclo de vida de un proyecto en Github   -  25 min  
-4. Simulación básica de tareas que podemos realizar como tutores en un TFG/TFM  - 25 min  
-5. Sonarqube y la calidad del código  -  45 min  
+1. Una visión crítica y contructiva sobre la evaluación de TFG y TFM - [1 Pomodoro](https://tomato-timer.com/)
+2. Búsqueda en repositorios de proyectos Github y Bitbucket.  -  [1 Pomodoro](https://tomato-timer.com/)  
+3. Ciclo de vida de un proyecto en Github   -  [1 Pomodoro](https://tomato-timer.com/)  
+4. Simulación básica de tareas que podemos realizar como tutores en un TFG/TFM  - [1 Pomodoro](https://tomato-timer.com/)  
+5. Sonarqube y la calidad del código  -  [1,5 Pomodoro](https://tomato-timer.com/)  
